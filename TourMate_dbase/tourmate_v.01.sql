@@ -121,7 +121,7 @@ CREATE TABLE `colaborador` (
 -- Estructura de tabla para la tabla `contato`
 --
 
-CREATE TABLE `contato` (
+CREATE TABLE `contrato` (
   `id_contrato` int(8) NOT NULL,
   `idf_cotizacion` int(8) NOT NULL,
   `idf_precontrato` int(8) NOT NULL,
